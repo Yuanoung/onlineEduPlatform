@@ -6,7 +6,7 @@
   - django1.11.7
 
 ## apps
-  1. users
-  2. courses
-  3. operations
-  4. organizations
+  1. `users`，用户
+  2. `courses`，课程
+  3. `operations`，用户的操作
+  4. `organizations`，机构
