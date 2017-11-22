@@ -43,6 +43,9 @@ INSTALLED_APPS = [
     'operation',
     'organization',
     'users',
+    'crispy_forms',
+    'captcha',
+    'pure_pagination',
 ]
 AUTH_USER_MODEL = 'users.UserProfile'
 MIDDLEWARE = [
