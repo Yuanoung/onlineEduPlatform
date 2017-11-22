@@ -1,0 +1,9 @@
+Django
+django-crispy-forms
+django-formtools
+httplib2
+Pillow
+mysqlclient
+django-simple-captcha
+django-pure-pagination
+django-debug-toolbar
